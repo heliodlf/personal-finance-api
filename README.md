@@ -14,7 +14,7 @@ Construir uma **API REST** simples para controle financeiro pessoal, praticando 
 - Testes manuais com Postman
 - Organização de projeto para o GitHub
 
-> **Objetivo REAL:** Você NÃO está construindo "um sistema financeiro completo". Você está praticando a estrutura do back-end Java. E esse tipo de projeto já parece MUITO mais profissional no GitHub do que 500 exercícios soltos.
+> **Objetivo REAL:** Não estou construindo "um sistema financeiro completo". Estou praticando a estrutura de um back-end Java profissional — com organização, boas práticas e um resultado concreto para demonstrar.
 
 ---
 
