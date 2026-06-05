@@ -82,4 +82,4 @@ Em desenvolvimento — funcionalidades planejadas:
 
 ## Autor
 
-**Hélio Lima** — [github.com/HelioDLima](https://github.com/HelioDLima)
+**Helio Lima** — [github.com/HelioDLima](https://github.com/HelioDLima)
